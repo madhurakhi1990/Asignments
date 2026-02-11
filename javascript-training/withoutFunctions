@@ -1,0 +1,23 @@
+//Testcase 1 verify login functionality
+console.log("launch the chrome browser");
+console.log("enter URL hhtps:www.icici.com");
+console.log("enter username as 'Madhushree' password as 'Madhushree123' ");
+console.log("click on login button");
+console.log("verify pages displayed");
+console.log("Logout from the application");
+console.log("close the browser");
+
+//Testcase 2 Verify the account balance.
+
+console.log("launch the chrome browser");
+console.log("enter URL hhtps:www.icici.com");
+console.log("enter username as 'Madhushree' password as 'Madhushree123' ");
+console.log("click on login button");
+console.log("verify pages displayed");
+console.log("go to account balance page")
+let accountBalance=10000;
+console.log("verify the account balance is displayed as",+accountBalance );
+console.log("Logout from the application");
+console.log("close the browser");
+
+
